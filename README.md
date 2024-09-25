@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/a5f6da40168d19a3bedb8.jpg">
+  <img src="https://graph.org/file/760c91b524b8593b90767.jpg">
 </p>
 <h1 align="center">
-  Biisal Filter Bot
+  Movies king 2.0
 </h1>
 
 First Check our **Demo** bot -
